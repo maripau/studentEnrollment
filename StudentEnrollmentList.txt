@@ -1,0 +1,2 @@
+Student ID #123456 wants to enroll in [asdf123, bcas]
+Student ID #7890123 wants to enroll in [asdddfe]
